@@ -1,0 +1,31 @@
+_repo: Babylonian-Assyrian-Birth-Omens-and-Their-Cultural-Significance_35791
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jastrow, Morris
+    birthdate: 1861
+    deathdate: 1921
+    gutenberg_agent_id: '8227'
+    url: http://www.gutenberg.org/2009/agents/8227
+    wikipedia: http://en.wikipedia.org/wiki/Morris_Jastrow,_Jr.
+description: ''
+gutenberg_issued: '2011-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35791'
+  lccn: '15000584'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Birth -- Folklore'
+- !lcsh 'Folklore -- Assyria'
+- !lcc 'BL'
+- !lcsh 'Folklore -- Babylonia'
+- !lcsh 'Omens'
+title: Babylonian-Assyrian Birth-Omens and Their Cultural Significance
+url: http://www.gutenberg.org/ebooks/35791
