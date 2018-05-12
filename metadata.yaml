@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8227
     wikipedia: http://en.wikipedia.org/wiki/Morris_Jastrow,_Jr.
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35791#Babylonian-Assyrian-Birth-Omens-and-Their-Cultural-Significance
 gutenberg_issued: '2011-04-08'
 gutenberg_type: Text
 identifiers:
